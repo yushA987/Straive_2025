@@ -1,0 +1,50 @@
+Timestamp,Level,Module,Message
+"2025-10-06 15:55:53,027",INFO,app,New user created: U001
+"2025-10-06 16:02:27,789",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1"
+"2025-10-06 16:03:18,397",INFO,app,New user created: U001
+"2025-10-06 16:03:32,811",INFO,app,New user created: U001
+"2025-10-06 16:05:23,236",INFO,app,New user created: U001
+"2025-10-06 16:05:28,957",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1"
+"2025-10-06 16:05:32,756",INFO,app,User 'U001' logged in successfully.
+"2025-10-06 16:05:50,622",INFO,app,User 'U001' accessed their details.
+"2025-10-06 16:06:14,240",INFO,app,User 'U001' checked eligibility for 'home_loan' loan.
+"2025-10-06 16:07:44,388",INFO,app,User 'U001' checked eligibility for 'home_loan' loan.
+"2025-10-06 15:55:53,027",INFO,app,New user created: U001
+"2025-10-06 16:02:27,789",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1"
+"2025-10-06 16:03:18,397",INFO,app,New user created: U001
+"2025-10-06 16:03:32,811",INFO,app,New user created: U001
+"2025-10-06 16:05:23,236",INFO,app,New user created: U001
+"2025-10-06 16:05:28,957",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1"
+"2025-10-06 16:05:32,756",INFO,app,User 'U001' logged in successfully.
+"2025-10-06 16:05:50,622",INFO,app,User 'U001' accessed their details.
+"2025-10-06 16:06:14,240",INFO,app,User 'U001' checked eligibility for 'home_loan' loan.
+"2025-10-06 16:07:44,388",INFO,app,User 'U001' checked eligibility for 'home_loan' loan.
+"2025-10-07 13:07:06,144",INFO,app,New user created: U001
+"2025-10-07 13:08:17,281",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1"
+"2025-10-07 13:09:35,360",INFO,app,New user created: U002
+"2025-10-07 13:10:03,443",INFO,app,User 'U001' logged in successfully.
+"2025-10-07 13:10:20,258",INFO,app,User 'U001' accessed their details.
+"2025-10-07 13:10:31,290",WARNING,app,"Expired token used. Endpoint: /loan/U002, IP: 127.0.0.1"
+"2025-10-07 13:11:02,800",WARNING,app,"Expired token used. Endpoint: /loan/U002, IP: 127.0.0.1"
+"2025-10-07 13:19:16,240",INFO,app,New user created: U002
+"2025-10-07 13:19:44,133",INFO,app,New user created: U001
+"2025-10-07 13:19:54,803",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1"
+"2025-10-07 13:20:06,975",INFO,app,User 'U001' logged in successfully.
+"2025-10-07 13:20:28,936",INFO,app,User 'U001' accessed their details.
+"2025-10-07 13:20:35,652",WARNING,app,"Expired token used. Endpoint: /loan/U002, IP: 127.0.0.1"
+"2025-10-07 13:20:47,585",WARNING,app,"Expired token used. Endpoint: /loan/U001, IP: 127.0.0.1"
+"2025-10-07 13:21:13,607",INFO,app,User 'U001' checked eligibility for 'home_loan' loan.
+"2025-10-07 13:21:37,674",INFO,app,User 'U001' checked eligibility for 'home_loan' loan.
+"2025-10-07 13:21:55,949",INFO,app,User 'U001' checked eligibility for 'education_loan' loan.
+"2025-10-07 13:22:09,526",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U002, IP: 127.0.0.1"
+"2025-10-07 14:54:09,411",INFO,app,New user created: U003
+"2025-10-07 14:54:45,773",INFO,app,New user created: U004
+"2025-10-07 14:55:22,405",INFO,app,New user created: U005
+"2025-10-07 14:56:19,519",INFO,app,New user created: U006
+"2025-10-07 15:02:39,057",INFO,app,User 'U006' logged in successfully.
+"2025-10-07 15:03:57,453",WARNING,app,"Invalid token used. Endpoint: /user/U006, IP: 127.0.0.1"
+"2025-10-07 15:04:10,701",INFO,app,User 'U006' accessed their details.
+"2025-10-07 15:05:23,423",WARNING,app,"Unauthorized access attempt without token. Endpoint: /transfer, IP: 127.0.0.1"
+"2025-10-07 15:14:37,920",WARNING,app,"Expired token used. Endpoint: /transfer, IP: 127.0.0.1"
+"2025-10-07 15:15:02,756",WARNING,app,"Unauthorized access attempt without token. Endpoint: /user/U006, IP: 127.0.0.1"
+"2025-10-07 15:15:08,166",INFO,app,User 'U006' logged in successfully.

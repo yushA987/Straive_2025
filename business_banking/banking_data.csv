@@ -1,0 +1,6 @@
+UserID,UserName,Balance,PAN,TAN,AccountType,Salary,Password
+U001,John Doe,15000,ABCDE1234F,,Savings,100000,mypass1
+U002,Jane Smith,25000,XYZAB9876K,TAN1234567,Current,200000,mypass2
+U003,Bob Johnson,5000,,,Savings,6000000,mypass3
+U004,Alice Brown,100000,,TAN7654321,Current,897899,mypass4
+U005,Charlie Lee,30000,LMNOP4567Q,,Savings,77889880,mypass5

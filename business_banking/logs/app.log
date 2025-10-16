@@ -1,0 +1,119 @@
+[2025-10-06 15:55:53,027] INFO in app: New user created: U001
+[2025-10-06 16:02:27,789] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1
+[2025-10-06 16:03:18,397] INFO in app: New user created: U001
+[2025-10-06 16:03:32,811] INFO in app: New user created: U001
+[2025-10-06 16:05:23,236] INFO in app: New user created: U001
+[2025-10-06 16:05:28,957] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1
+[2025-10-06 16:05:32,756] INFO in app: User 'U001' logged in successfully.
+[2025-10-06 16:05:50,622] INFO in app: User 'U001' accessed their details.
+[2025-10-06 16:06:14,240] INFO in app: User 'U001' checked eligibility for 'home_loan' loan.
+[2025-10-06 16:07:44,388] INFO in app: User 'U001' checked eligibility for 'home_loan' loan.
+[2025-10-07 13:07:06,144] INFO in app: New user created: U001
+[2025-10-07 13:08:17,281] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1
+[2025-10-07 13:09:35,360] INFO in app: New user created: U002
+[2025-10-07 13:10:03,443] INFO in app: User 'U001' logged in successfully.
+[2025-10-07 13:10:20,258] INFO in app: User 'U001' accessed their details.
+[2025-10-07 13:10:31,290] WARNING in app: Expired token used. Endpoint: /loan/U002, IP: 127.0.0.1
+[2025-10-07 13:11:02,800] WARNING in app: Expired token used. Endpoint: /loan/U002, IP: 127.0.0.1
+[2025-10-07 13:19:16,240] INFO in app: New user created: U002
+[2025-10-07 13:19:44,133] INFO in app: New user created: U001
+[2025-10-07 13:19:54,803] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1
+[2025-10-07 13:20:06,975] INFO in app: User 'U001' logged in successfully.
+[2025-10-07 13:20:28,936] INFO in app: User 'U001' accessed their details.
+[2025-10-07 13:20:35,652] WARNING in app: Expired token used. Endpoint: /loan/U002, IP: 127.0.0.1
+[2025-10-07 13:20:47,585] WARNING in app: Expired token used. Endpoint: /loan/U001, IP: 127.0.0.1
+[2025-10-07 13:21:13,607] INFO in app: User 'U001' checked eligibility for 'home_loan' loan.
+[2025-10-07 13:21:37,674] INFO in app: User 'U001' checked eligibility for 'home_loan' loan.
+[2025-10-07 13:21:55,949] INFO in app: User 'U001' checked eligibility for 'education_loan' loan.
+[2025-10-07 13:22:09,526] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U002, IP: 127.0.0.1
+[2025-10-07 14:54:09,411] INFO in app: New user created: U003
+[2025-10-07 14:54:45,773] INFO in app: New user created: U004
+[2025-10-07 14:55:22,405] INFO in app: New user created: U005
+[2025-10-07 14:56:19,519] INFO in app: New user created: U006
+[2025-10-07 15:02:39,057] INFO in app: User 'U006' logged in successfully.
+[2025-10-07 15:03:57,453] WARNING in app: Invalid token used. Endpoint: /user/U006, IP: 127.0.0.1
+[2025-10-07 15:04:10,701] INFO in app: User 'U006' accessed their details.
+[2025-10-07 15:05:23,423] WARNING in app: Unauthorized access attempt without token. Endpoint: /transfer, IP: 127.0.0.1
+[2025-10-07 15:14:37,920] WARNING in app: Expired token used. Endpoint: /transfer, IP: 127.0.0.1
+[2025-10-07 15:15:02,756] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U006, IP: 127.0.0.1
+[2025-10-07 15:15:08,166] INFO in app: User 'U006' logged in successfully.
+[2025-10-08 14:54:36,287] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U006, IP: 127.0.0.1
+[2025-10-08 14:59:41,806] INFO in app: New user created: U001
+[2025-10-08 15:00:33,951] INFO in app: New user created: U002
+[2025-10-08 15:00:50,620] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U001, IP: 127.0.0.1
+[2025-10-08 15:01:04,631] INFO in app: User 'U001' logged in successfully.
+[2025-10-08 15:01:32,257] INFO in app: User 'U001' accessed their details.
+[2025-10-08 16:07:45,474] WARNING in app: Failed login attempt for UserID 'U001'
+[2025-10-08 16:09:16,988] WARNING in app: Failed login attempt for UserID 'U001'
+[2025-10-08 16:09:49,573] INFO in app: New user created: U003
+[2025-10-08 16:10:07,974] INFO in app: User 'U003' logged in successfully.
+[2025-10-08 16:18:06,605] INFO in app: New user created: U004
+[2025-10-08 16:18:47,453] INFO in app: User 'U004' logged in successfully.
+[2025-10-08 16:24:20,868] WARNING in app: Unauthorized access attempt without token. Endpoint: /transfer, IP: 127.0.0.1
+[2025-10-08 16:37:54,390] WARNING in app: Unauthorized access attempt without token. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 16:38:07,957] INFO in app: User 'U004' logged in successfully.
+[2025-10-08 16:38:16,482] WARNING in app: Unauthorized access attempt without token. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 16:38:22,157] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:38:24,366] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:38:32,925] WARNING in app: Unauthorized access attempt without token. Endpoint: /transfer, IP: 127.0.0.1
+[2025-10-08 16:41:52,357] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:41:53,266] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:41:55,670] WARNING in app: Unauthorized access attempt without token. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 16:41:57,800] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:41:59,651] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:41:59,901] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:42:00,165] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:42:00,366] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:42:00,519] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:42:00,681] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:42:00,837] WARNING in app: Unauthorized access attempt without token. Endpoint: /user/U004, IP: 127.0.0.1
+[2025-10-08 16:42:05,638] WARNING in app: Unauthorized access attempt without token. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 16:44:05,664] WARNING in app: Unauthorized access attempt without token. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 16:47:02,026] INFO in app: User 'U001' logged in successfully.
+[2025-10-08 16:47:15,247] WARNING in app: Unauthorized access attempt without token. Endpoint: /withdraw, IP: 127.0.0.1
+[2025-10-08 16:48:39,261] WARNING in app: Unauthorized access attempt without token. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 17:02:09,844] WARNING in app: Expired token used. Endpoint: /deposit, IP: 127.0.0.1
+[2025-10-08 17:02:35,766] INFO in app: User 'U004' logged in successfully.
+[2025-10-08 17:02:45,585] INFO in app: User 'U004' accessed their details.
+[2025-10-08 17:02:59,511] INFO in app: User 'U004' accessed their details.
+[2025-10-08 17:03:05,840] INFO in app: User 'U004' accessed their details.
+[2025-10-08 17:03:24,204] INFO in app: User 'U004' accessed their details.
+[2025-10-08 17:03:39,339] INFO in app: User 'U003' logged in successfully.
+[2025-10-08 17:08:52,742] INFO in app: User 'U004' logged in successfully.
+[2025-10-08 17:08:56,817] INFO in app: User 'U004' checked eligibility for 'home_loan' loan.
+[2025-10-08 17:09:01,257] INFO in app: User 'U004' checked eligibility for 'home_loan' loan.
+[2025-10-08 17:20:07,551] WARNING in app: Expired token used. Endpoint: /loan/U004, IP: 127.0.0.1
+[2025-10-08 17:20:16,357] INFO in app: User 'U001' logged in successfully.
+[2025-10-08 17:20:32,545] INFO in app: User 'U001' checked eligibility for 'home_loan' loan.
+[2025-10-08 17:20:39,125] INFO in app: User 'U001' checked eligibility for 'education_loan' loan.
+[2025-10-08 17:24:46,776] INFO in app: User 'U001' logged in successfully.
+[2025-10-09 09:26:19,978] INFO in app: New user created: U005
+[2025-10-09 09:26:45,416] INFO in app: User 'U005' logged in successfully.
+[2025-10-09 09:27:01,675] INFO in app: User 'U005' accessed their details.
+[2025-10-09 09:27:33,078] INFO in app: User 'U005' accessed their details.
+[2025-10-09 10:00:20,888] INFO in app: New user created: U006
+[2025-10-09 10:15:47,758] INFO in app: New user created: U010
+[2025-10-09 10:45:47,376] INFO in app: User 'U001' accessed their details.
+[2025-10-09 10:56:39,771] INFO in app: User 'U010' checked eligibility for 'home_loan' loan.
+[2025-10-09 10:56:51,734] INFO in app: User 'U010' checked eligibility for 'business_loan' loan.
+[2025-10-09 10:56:56,556] INFO in app: User 'U010' checked eligibility for 'education_loan' loan.
+[2025-10-09 10:57:07,833] INFO in app: User 'U010' checked eligibility for 'education_loan' loan.
+[2025-10-09 10:57:10,248] INFO in app: User 'U010' checked eligibility for 'home_loan' loan.
+[2025-10-09 10:57:27,991] INFO in app: User 'U010' checked eligibility for 'business_loan' loan.
+[2025-10-09 10:58:01,595] INFO in app: User 'U001' checked eligibility for 'home_loan' loan.
+[2025-10-09 10:58:12,449] INFO in app: User 'U001' checked eligibility for 'business_loan' loan.
+[2025-10-09 10:58:18,080] INFO in app: User 'U001' checked eligibility for 'education_loan' loan.
+[2025-10-09 11:27:22,305] INFO in app: New user created: U011
+[2025-10-09 11:27:51,994] INFO in app: User 'U011' checked eligibility for 'home_loan' loan.
+[2025-10-09 11:27:56,984] INFO in app: User 'U011' checked eligibility for 'business_loan' loan.
+[2025-10-09 11:28:27,546] INFO in app: User 'U001' accessed their details.
+[2025-10-09 14:48:44,143] INFO in app: User 'U001' accessed their details.
+[2025-10-09 14:48:55,506] INFO in app: User 'U001' accessed their details.
+[2025-10-09 14:49:05,627] INFO in app: User 'U001' checked eligibility for 'education_loan' loan.
+[2025-10-09 14:53:54,033] INFO in app: New user created: U100
+[2025-10-09 14:54:51,430] INFO in app: User 'U100' accessed their details.
+[2025-10-09 14:55:29,565] INFO in app: User 'U100' checked eligibility for 'business_loan' loan.
+[2025-10-09 14:55:34,102] INFO in app: User 'U100' checked eligibility for 'education_loan' loan.
+[2025-10-09 14:55:53,747] INFO in app: User 'U100' checked eligibility for 'home_loan' loan.
+[2025-10-10 10:23:29,691] INFO in app: User 'U001' accessed their details.
+[2025-10-10 10:23:39,462] INFO in app: User 'U001' accessed their details.

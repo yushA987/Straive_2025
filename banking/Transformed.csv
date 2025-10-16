@@ -1,0 +1,11 @@
+EmployeeID,Name,DOB,Salary,Department,JoinDate,Email,Age,YearOfService
+E001,John Doe,1985-03-15,65000.0,Finance,2015-06-01,john.doe@financecorp.com,40,10
+E002,Jane Smith,1990-11-22,72000.0,Marketing,2018-09-15,jane.smith@marketpro.org,35,7
+E003,Emily Davis,1988-07-30,69000.0,HR,2016-01-10,emily.d@hrsolutions.net,37,9
+E004,Michael Brown,1979-05-18,88000.0,IT,2010-03-20,mike.b@techhub.io,46,15
+E005,Linda Green,1992-12-02,64000.0,Finance,2019-04-22,linda.green@financecorp.com,33,6
+E006,Robert White,1983-08-12,71000.0,IT,2014-11-30,robert.w@techhub.io,42,11
+E007,Susan Clark,1995-09-09,60000.0,Marketing,2020-07-01,susan.c@marketpro.org,30,5
+E008,David Lewis,1987-02-28,77000.0,Operations,2012-05-17,david.lewis@opsco.com,38,13
+E009,Nancy Hall,1991-06-25,68000.0,HR,2017-02-05,nancy.h@hrsolutions.net,34,8
+E010,Kevin Young,1980-10-10,95000.0,IT,2009-08-24,kevin.young@techhub.io,45,16
